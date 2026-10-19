@@ -1,6 +1,4 @@
 # Cycling_profiling_support
-# Cycling Profiling — Support
-
 ## About the application
 
 Cycling Profiling is an academic project developed to analyze cycling activity data using the Strava API. The application retrieves activity data from athletes who authorize access through Strava OAuth.
